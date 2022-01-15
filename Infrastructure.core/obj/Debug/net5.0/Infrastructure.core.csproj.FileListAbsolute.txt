@@ -1,0 +1,15 @@
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\bin\Debug\net5.0\Infrastructure.core.deps.json
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\bin\Debug\net5.0\Infrastructure.core.dll
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\bin\Debug\net5.0\ref\Infrastructure.core.dll
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\bin\Debug\net5.0\Infrastructure.core.pdb
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\bin\Debug\net5.0\Domain.core.dll
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\bin\Debug\net5.0\Domain.core.pdb
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.csprojAssemblyReference.cache
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.AssemblyInfoInputs.cache
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.AssemblyInfo.cs
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.csproj.CopyComplete
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.dll
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\ref\Infrastructure.core.dll
+C:\Users\Sandra\source\repos\BookStore\Infrastructure.core\obj\Debug\net5.0\Infrastructure.core.pdb

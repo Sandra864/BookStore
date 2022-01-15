@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+mv8pBR09J+XvUhPsgksg+nZT+x4D2rOk7WsPcXmLwImWHPEl3Wjkc0WOZWNd5m1Kt+DK9rw0xVpPb5ss2e55A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sandra\\source\\repos\\BookStore\\Domain.core\\Domain.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandra\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\Sandra\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

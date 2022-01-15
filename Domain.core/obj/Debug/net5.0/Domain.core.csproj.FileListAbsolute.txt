@@ -1,0 +1,12 @@
+C:\Users\Sandra\source\repos\BookStore\Domain.core\bin\Debug\net5.0\Domain.core.deps.json
+C:\Users\Sandra\source\repos\BookStore\Domain.core\bin\Debug\net5.0\Domain.core.dll
+C:\Users\Sandra\source\repos\BookStore\Domain.core\bin\Debug\net5.0\ref\Domain.core.dll
+C:\Users\Sandra\source\repos\BookStore\Domain.core\bin\Debug\net5.0\Domain.core.pdb
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.csprojAssemblyReference.cache
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.AssemblyInfoInputs.cache
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.AssemblyInfo.cs
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.dll
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\ref\Domain.core.dll
+C:\Users\Sandra\source\repos\BookStore\Domain.core\obj\Debug\net5.0\Domain.core.pdb
